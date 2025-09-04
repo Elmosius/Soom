@@ -1,5 +1,25 @@
-# Vue 3 + TypeScript + Vite
+# 🌿 Soom (숨)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Soom** (*Breath of Nature*) adalah mini project **Floating Gallery** dengan nuansa  yang tenang.  
+Foto-foto tampil melayang perlahan (floating). Website ini masih dalam tahap pengembangan.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 🚀 Tech Stack
+- [Vue 3](https://vuejs.org/) (Composition API + Vite)
+- [GSAP](https://gsap.com/) (untuk floating animation)
+- [TailwindCSS](https://tailwindcss.com/) (utility-first styling)
+
+## 📂 Project Setup
+
+```bash
+# clone repo
+git clone https://github.com/Elmosius/Soom.git
+cd Soom
+
+# install dependencies
+npm install
+
+# run development server
+npm run dev
+
+# build for production
+npm run build
