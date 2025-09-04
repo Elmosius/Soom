@@ -1,5 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Hero from "./components/Hero";
+</script>
 
 <template>
-  <h1 class="font-semibold">Hello vue!</h1>
+  <Hero />
 </template>
